@@ -1,6 +1,6 @@
 #  Loading Animation UI View - Loading View
 
-Simple loading animation Pong that was created using SwiftUI.
+Simple loading animation that was created using SwiftUI.
 
 # Table of Contents
 
